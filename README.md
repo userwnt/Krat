@@ -8,5 +8,5 @@ Select Languages: [简体中文](README_FILES/readme_zh-CN.md)
 
 ## What is Rat
 RAT(Remote Access Trojan) 
-This is a classic C2 (Command & Control) RAT written in C#.
+This is a classic C2 (Command & Control) RAT written in Python.
 Architecture: **Server (Controller) ↔ Client (Agent)** over TCP socket.
