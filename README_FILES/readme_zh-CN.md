@@ -1,7 +1,7 @@
 # KryptonRAT
 
 >当前语言：中文
-选择语言：[English](README_FILES/readme_zh-CN)
+选择语言：[English](./../README.md)
 
 > 嘿，这是一个由我和 [gurew23](https://github.com/gurew23) 共同开发的远程访问木马（RAT）。
 >>请勿将其用于教育/学习以外的任何用途。
